@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;}
+header{
+    
+    width: 100%;
+    height: 1440px;
+    background-color: black;
+   
+}
+.xx{color: azure;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+    
+    }
+    .vv{
+       color: aliceblue;
+
+box-sizing: border-box;
+
+position: absolute;
+width: 382px;
+height: 83px;
+left: 122px;
+top: 556px;
+
+mix-blend-mode: normal;
+border: 1px solid rgba(0, 0, 0, 0.5);
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5), -4px -4px 30px rgba(255, 255, 255, 0.1);
+
+        
+        
+        
+    }
+    .vc{
+        font-size: medium;
+        color: white;
+        text-align: center;
+    }
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    color: aliceblue;
+}
+.music{
+    width: 100%;
+    height: 1440px;
+    background-color: coral;
+}
+.cc{
+    box-sizing: border-box;
+    position: absolute;
+    width: 140px;
+    height: 150px;
+    text-align: center;
+    color: aliceblue;
+    top: 1900px;
+}
+.ff{
+    box-sizing: content-box;
+    color: black;
+}
+
